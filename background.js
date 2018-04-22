@@ -8,7 +8,7 @@ getLocalIPs(function(ips) { // <!-- ips is an array of local IP addresses.
 
 // Tests local IP against specified (Allowed) IP
 
-   if(ipTester.includes("192.168.0.3") ){console.log(true)}
+   if(ipTester.includes("insertIPHere") ){console.log(true)}
 
 // If does not pass, blocks access to certain restricted websites
 
